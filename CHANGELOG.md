@@ -28,6 +28,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## Added
 
 - Add support for Ruby 3.4.
+- Update rails dependency in gemspec to support Rails 8.1
 
 ## Changed
 

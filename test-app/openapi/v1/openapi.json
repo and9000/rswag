@@ -253,7 +253,7 @@
         "operationId": "getBlog",
         "responses": {
           "200": {
-            "description": "blog found - openapi_no_additional_properties = true",
+            "description": "blog found - tagged :openapi_no_additional_properties",
             "headers": {
               "ETag": {
                 "schema": {
